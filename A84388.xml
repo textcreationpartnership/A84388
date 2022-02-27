@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and full relation of the last fight, between the Kings forces and Sir William Waller. Sent in a letter from an officer in the army to his friend in London. Printed to prevent mis-information.</title>
+            <author>Ellis, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84388</idno>
+            <idno type="STC">Wing E605</idno>
+            <idno type="STC">Thomason E53_18</idno>
+            <idno type="STC">ESTC R15018</idno>
+            <idno type="EEBO-CITATION">99859785</idno>
+            <idno type="PROQUEST">99859785</idno>
+            <idno type="VID">155226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155226)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E53[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and full relation of the last fight, between the Kings forces and Sir William Waller. Sent in a letter from an officer in the army to his friend in London. Printed to prevent mis-information.</title>
+                  <author>Ellis, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ben. Allen, in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 5. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Tho. Ellis.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155226:1" rendition="simple:additions"/>
+            <p>An Exact and full RELATION OF THE LAST FIGHT, Between the KINGS Forces and Sir WILLIAM WALLER. Sent in a Letter from an Officer in the Army to his friend in <hi>London.</hi>
+            </p>
+            <p>Printed to prevent miſ-information.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Ben. Allen,</hi> in Popes-Head-Alley.</p>
+            <p>
+               <hi>July</hi> 5. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155226:2"/>
+            <pb n="3" facs="tcp:155226:2"/>
+            <head>AN EXACT AND FVLL RELATION OF THE LAST FIGHT between the KINGS Forces and Sir WILLIAM WALLER.</head>
+            <opener>
+               <dateline>From <hi>Borton</hi> the place of our Randevous <date>the <hi>30<hi rend="sup">th</hi>
+                     </hi> of June, <hi>1644.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE have thought good to give you the beſt and trueſt Relation of our late paſſages, and Gods providence towards us. After ſeve<g ref="char:EOLhyphen"/>rall dayes marching; on thurſday night laſt about ſeven of the Clock wee faced the Kings body at Cropready bridge neare Ban<g ref="char:EOLhyphen"/>bury, and all day, the next day, and yeſterday till noone being Saturday, about ten of the clock in the forenoone wee diſcovered their Army to be upon the march towards <hi>Daintry:</hi> and as ſome (who were ſince taken priſoners) affirme, their entent was from thence to <hi>York:</hi> Whereup<g ref="char:EOLhyphen"/>on command was given to ſome particular perſons to ad<g ref="char:EOLhyphen"/>vance after them, and fall in their Reere: But it proved the middle of their whole body.</p>
+            <p>
+               <pb n="4" facs="tcp:155226:3"/>
+According to the order, our Regiment of Horſe and Collonell <hi>Vandroſſes,</hi> advanced under the Command of Lievtenant Generall <hi>Middleton,</hi> and Captain <hi>Butler,</hi> Adju<g ref="char:EOLhyphen"/>tant Generall, and foure Companies of <hi>Farnbam</hi> foote, and five Companies of Sir <hi>Williams</hi> owne Regiment, un<g ref="char:EOLhyphen"/>der the Command of Lievtenant Collonell <hi>Baines,</hi> (ſome<g ref="char:EOLhyphen"/>time a Brewer in <hi>London)</hi> Quarter-Maſter Generall to the foote.</p>
+            <p>They had placed a Guard to ſecure <hi>Cropready</hi>-bridge, which wee readily beat off, and made the bridge our owne by a partie of Dragoons, and paſt over the River between us and <hi>Banbury,</hi> (for till then we were on the one ſide of the River, and they on the other) being over the River, through miſ-information, wee too ſpeedily purſued the enemy, (being enformed that their whole bodie was marched away, when as a third part of them were left be<g ref="char:EOLhyphen"/>hinde unknowne to us. Wee purſued them above a mile, till we came to a bridge, where their Foot made a ſtand, drew up and fac'd us; wee being within Musket ſhot of them, onely our foure eldeſt Troops, <hi>(viz.)</hi> Sir <hi>Arthurs,</hi> Captaine <hi>Okees;</hi> Captaine <hi>Foleyes,</hi> and Captaine <hi>Gard<g ref="char:EOLhyphen"/>ners:</hi> They overthrew a Carriage to barricado the bridge, and planted it with Muskettiers. This occaſioned our Re<g ref="char:EOLhyphen"/>treat back againe, being unwilling too farre to engage our ſelves, having no Foot within above halfe a mile of us, and diſcovering their Army behind us, upon our retreat wee diſcovered the party of Foot (drawne over with us) by an unreſiſtable body of the enemies Horſe, of ſome thirty Troops, and two regiments of Foot put to diſorderly re<g ref="char:EOLhyphen"/>treat, which haſtened our march back againe, and comming back we found the way to the bridge within a quarter of a mile, ſtopt with the enemies Horſe and Foot, who were got between our Foot and the bridge: For whoſe reliefe (al<g ref="char:EOLhyphen"/>though our way backe lay on the right hand, we advanced up to their body on the left hand up the hill, and with our foure Troops charged the Kings owne Regiment, and put
+<pb n="5" facs="tcp:155226:3"/>
+them to a retreat; but the other Troop commming downe upon us, (there being of them in all ſome three Regiments) with whom we were in no caſe able to deale, we were neceſ<g ref="char:EOLhyphen"/>ſitated to retreat very diſorderly, having put their body of Horſe into a combuſtion, having ſlain three Colonels, wher<g ref="char:EOLhyphen"/>of one was Sir <hi>William Butler,</hi> a Papiſt of <hi>Kent,</hi> Lieutenant generall of Horſe <hi>(viz.) Wilmut</hi> was ſore wounded, and his Lieutenant Generall taken priſoner, and committed to the cuſtody of two Souldiers, who in our diſorderly re<g ref="char:EOLhyphen"/>treat loſt him againe: We ſlue divers other of their Officers both in our charge and in our retreat, the way being fil<g ref="char:EOLhyphen"/>led with their foot and horſe, many whereof were woun<g ref="char:EOLhyphen"/>ded ſorely, ſlew others, and took ſome priſoners. Com<g ref="char:EOLhyphen"/>ming back to the Bridge, the Hamblets very honoura<g ref="char:EOLhyphen"/>bly and ſtoutly made good the Bridge, kept back the ene<g ref="char:EOLhyphen"/>my, and recovered three peeces of our Ordnance, which we had loſt; we having loſt ſome half a dozen ſmall peeces beſides, which were unadviſedly drawne over before the Foot were ready to march along with them, and the men running a way with the horſe, we could not draw them back again: being over th bridge, we rallied together, and drew our body toward anoher place of the river, where the enemy made ſhew of comming over, but we kept them on the o<g ref="char:EOLhyphen"/>ther ſide; although we could not attain what we attempted, yet we hereby bravely cauſed them to draw back their whol body from their march onward toward <hi>Daintry,</hi> w<hi rend="sup">ch</hi> muſt retard their journy to <hi>York.</hi> Having faced them ſeveral hours together, towards evening the King ſent his trumpeter to our General, w<hi rend="sup">th</hi> a meſſage to this effect, that if our General plea<g ref="char:EOLhyphen"/>ſed, he would ſend a Herald of Armes, which at the head of our Army ſhould proclaim a gracious Meſſage. The anſwer from our Generall was returned thus, That he had no com<g ref="char:EOLhyphen"/>miſſion to treat with his Majeſtie concerning peace; but if he pleaſed to ſend to the two Houſes of Parliament, wee ſhould remain his faithfull ſubjects. In the time of our facing wee exchanged ſeverall Cannon ſhot, as we conceive fourty ſhot apiece, but through Gods mercy, all their Cannon ſhot gave
+<pb n="6" facs="tcp:155226:4"/>
+us but the loſſe of one horſe, not one man; but our ſhot, the Lord ſo ordering it, cauſed them to draw backe their body out of our reach, where they abode all night. Wee tooke in the fight two Horſe Colours of theirs, and we loſt three Foot Colours, we have loſt Lievtenant Colonell <hi>Baines,</hi> who as we heare, would not take quarter, we have loſt Col. <hi>Wembs,</hi> Collonell of our Artillery, and Lievtenant Collonell <hi>Ba<g ref="char:EOLhyphen"/>ker,</hi> Lievtenant Collonell to Sir <hi>Williams</hi> Regiment of foote.</p>
+            <p>Wee have loſt of ours, and taken priſoners neare upon one hundred, or ſix ſcore. Captaine <hi>Okes</hi> has loſt ſome ten men, whereof one Maſter <hi>Creſey</hi> it one: Captain <hi>Gard<g ref="char:EOLhyphen"/>ner</hi> hath loſt neer as many: Captain <hi>Foleys</hi> foure, and three wounded, whereof one <hi>Thomas Steme,</hi> an apprentiſe for<g ref="char:EOLhyphen"/>merly to Maſter <hi>Lloyd,</hi> who lived in Watling-ſtreet is one, being ſhot into the thigh, the thigh-bone broke, and run through both buttocks with a tuck: We this day ſent him and another, one <hi>John Nicklis</hi> to <hi>Warwicke,</hi> there to be care<g ref="char:EOLhyphen"/>fully provided for. We have loſt but one Officer in all our Regiment, praiſed be God, and that is Captain <hi>Perries</hi> Cor<g ref="char:EOLhyphen"/>net.</p>
+            <p>It was an infinite mercy of God we had not been all loſt, which we deſire may bee taken notice of, with ſolemne thankes to God almightie, who was our onely helper: as al<g ref="char:EOLhyphen"/>ſo for the double good effect it wrought; <hi>viz.</hi> it drew their body back from marching toward <hi>York;</hi> and wee relieved ſome ſix hundred horſe that were comming to joyne with us, whom the enemy had faced above a quarter of an houre, comming from <hi>Northampton,</hi> who had not wee take this courſe, in all probabilitie they had been all cut off. Wee have taken a Major of the Kings owne Regiment, his name is <hi>Webbe,</hi> he is mortally wounded, not likely to recover: Our Officers and Souldiers are very well, and very cheerefull, willingly content to goe on with the work, if we can but be ſupplyed with bread and water, our lodging having for ſeverall nights been, and ſtill is, on Gods cold earth, over-ſhaddowed with the Canopie of
+<pb n="7" facs="tcp:155226:4"/>
+heavens ſweet Firmament, and God in much mercy hath afforded us ſweet temperate weather; nothing hath been ſo ſhort with us as Bread for men, the earth afford ng graſſe for our horſes. Wee ſtill continue facing one ano<g ref="char:EOLhyphen"/>ther, the River between us, wee maintain <hi>Cropready-bridge,</hi> and hinder their paſſage over to us, waiting what they will do, and expecting further ſupplyes, either from Col. <hi>Brown,</hi> Lord <hi>Gray,</hi> Collonel <hi>Murey,</hi> or the Earle of <hi>Denbigh,</hi> whom it pleaſes God to ſend. They have a far larger bo<g ref="char:EOLhyphen"/>dy of horſe then wee, but for foot wee dare incounter, being no ways fearfull to deal with their horſe.</p>
+            <p>Wee deſire not to bury the mercies of God in obli<g ref="char:EOLhyphen"/>vion, but to tell of his loving kindneſſe, and deſire that all our friends may be acquainted with his goodneſſe to us in this delivery, that they may be the better ſtirred up, both in publique and private to bleſſe God, and re<g ref="char:EOLhyphen"/>joyce with us.</p>
+            <p>We deſire your prayers for our good ſucceſſe, and that is the greateſt comfort that under God wee have, that wee have a ſtock of prayers ſtill going on among all Gods people. His Majeſty was under a tree in the field not above Piſtoll<g ref="char:punc">▪</g>ſhot where wee charged his horſe, as ſome of our own men, and ſome of their priſoners af<g ref="char:EOLhyphen"/>firm. Wee have about 80. of theirs priſoners; there is now another Trumpeter come from his Majeſty, but for what we know not, it is ſure no parley, for our Cannon playes at them. My Capt. man, <hi>Henry Philips</hi> the Barbar is taken priſoner: my man <hi>Thomas Suger</hi> charged with mee, and came off, bleſſed be God, ſafe and well, and did good ſervice.</p>
+            <p>All our Officers and Souldiers in this buſineſſe beha<g ref="char:EOLhyphen"/>ved themſelves very ſtoutly. Lievtenant Generall <hi>Middle<g ref="char:EOLhyphen"/>ton,</hi> and Adjutant Generall <hi>Butler,</hi> charged with us very gallantly; Lievtenant Generall <hi>Middleton</hi> was acciden<g ref="char:EOLhyphen"/>tally diſmounted, and one of Captain <hi>Okes</hi> his men diſ<g ref="char:EOLhyphen"/>mounted, and mounted him on his horſe, and after brought off the Lievetenant Generalls owne horſe and piſtols,
+<pb n="8" facs="tcp:155226:5"/>
+for which the Lievtenant Generall hath made him a Cap<g ref="char:EOLhyphen"/>tain Lievtenant, and he ſhall be his childe ſo long as he lives. I fear the Poſt will be gone, I take leave, a thou<g ref="char:EOLhyphen"/>ſand times farewell, the Lord preſerve you and us all, which is the deſire of thy truly loving Brother till death,</p>
+            <closer>
+               <signed>Tho. Ellis.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>THe Trumpeter from his Majeſty, as I hear, brings this meſſage: that the King will give our Generall leave to march away with his foot and horſe, provided he will leave his Artillery and Ammunition behind him, but bleſſed be our God, we are not in that ſtrait as yet; were wee, wee would rather chooſe to leave ſome of our blood to doe him good. Severall friends I know will ſend to ſee this Letter, therefore I pray thee beſtow a dozen of points thereon,</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
